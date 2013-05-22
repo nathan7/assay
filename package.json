@@ -1,0 +1,31 @@
+{
+  "name": "assay",
+  "version": "1.0.0",
+  "description": "make assertion functions into boolean tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/assay.git"
+  },
+  "keywords": [
+    "try",
+    "catch",
+    "throw",
+    "assertion",
+    "utility"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathan7/assay/issues"
+  },
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "chai": "~1.6.0",
+    "mocha": "~1.10.0",
+    "chai-spies": "~0.5.1"
+  }
+}

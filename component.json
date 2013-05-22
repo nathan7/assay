@@ -1,0 +1,17 @@
+{
+  "name": "assay",
+  "repo": "nathan7/assay",
+  "description": "make assertion functions into boolean tests",
+  "version": "1.0.0",
+  "keywords": [
+    "try",
+    "catch",
+    "throw",
+    "assertion",
+    "utility"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
